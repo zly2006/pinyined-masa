@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.zly2006.pinyinedmasa.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AMixinTextSearchProvider"
+  ],
+  "client": [
+    "MixinMC",
+    "MixinWidgetListBase",
+    "MixinWidgetListConfigOptions"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
