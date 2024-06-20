@@ -18,8 +18,5 @@
   },
   "mixins": [
     "pinyined-masa.mixins.json"
-  ],
-  "depends": {
-    "malilib": "*"
-  }
+  ]
 }

@@ -73,7 +73,7 @@ U+3478 yao2
 U+3479 hui4
 U+347A jun4
 U+347B ma4
-U+347C lüe4
+U+347C lve4
 U+347D tang2
 U+347E yao2
 U+347F zhao4
@@ -178,7 +178,7 @@ U+34FA jian1
 U+34FC chi4
 U+34FD chong2
 U+34FE xi1
-U+3500 lüe4
+U+3500 lve4
 U+3501 deng1
 U+3502 lin2
 U+3503 jue2
@@ -339,7 +339,7 @@ U+35C5 hu2
 U+35C6 ge2
 U+35C7 xia2
 U+35C8 man4
-U+35C9 lüe4
+U+35C9 lve4
 U+35CA ji2
 U+35CB hou2
 U+35CC zhi4
@@ -1326,7 +1326,7 @@ U+3A38 ma4
 U+3A39 hui4
 U+3A3A mian3
 U+3A3B can2
-U+3A3C lüe4
+U+3A3C lve4
 U+3A3D pi4
 U+3A3E yang4
 U+3A3F ju4
@@ -2724,7 +2724,7 @@ U+40AA qiao3
 U+40AB hang1
 U+40AC gong3
 U+40AD qiao1
-U+40AE lüe4
+U+40AE lve4
 U+40AF guai4
 U+40B0 la4
 U+40B1 rui4
@@ -3272,7 +3272,7 @@ U+430A yao2
 U+430B da1
 U+430C qi4
 U+430D jin3
-U+430E lüe4
+U+430E lve4
 U+430F mi4
 U+4310 mi4
 U+4311 jian1
@@ -3855,9 +3855,9 @@ U+4584 ran2
 U+4585 ling2
 U+4586 niang4
 U+4587 yu4
-U+4588 nüe4
+U+4588 nve4
 U+458A yi4
-U+458B nüe4
+U+458B nve4
 U+458C yi4
 U+458D qian2
 U+458E xia2
@@ -4160,7 +4160,7 @@ U+46D6 e4
 U+46D7 zhi3
 U+46D8 ren2
 U+46D9 xu4
-U+46DA lüe4
+U+46DA lve4
 U+46DB hui4
 U+46DC xun4
 U+46DD nao2
@@ -4695,7 +4695,7 @@ U+491E yun3
 U+491F chen2
 U+4920 zhi3
 U+4921 ran3
-U+4923 lüe4
+U+4923 lve4
 U+4924 kai1
 U+4925 gui3
 U+4926 yue4
@@ -4896,7 +4896,7 @@ U+4A05 liao2
 U+4A06 bi2
 U+4A08 bin1
 U+4A0A yuan1
-U+4A0B nüe4
+U+4A0B nve4
 U+4A0C bao2
 U+4A0D ying3
 U+4A0E hong2
@@ -8099,7 +8099,7 @@ U+5715 tu2
 U+5716 tu2
 U+5717 tu2
 U+5718 tuan2
-U+5719 lüe4
+U+5719 lve4
 U+571A hui4
 U+571B yi4
 U+571C huan2
@@ -11306,7 +11306,7 @@ U+639C yi4
 U+639D huo4
 U+639E shan4
 U+639F zheng3
-U+63A0 lüe4
+U+63A0 lve4
 U+63A1 cai3
 U+63A2 tan4
 U+63A3 che4
@@ -11655,7 +11655,7 @@ U+64F9 tan1
 U+64FA bai3
 U+64FB sou3
 U+64FC lu3
-U+64FD lüe4
+U+64FD lve4
 U+64FE rao3
 U+64FF ti1
 U+6500 pan1
@@ -15848,9 +15848,9 @@ U+7561 gai1
 U+7562 bi4
 U+7563 da2
 U+7564 zhi4
-U+7565 lüe4
+U+7565 lve4
 U+7566 qi2
-U+7567 lüe4
+U+7567 lve4
 U+7568 pan1
 U+7569 yi1
 U+756A fan1
@@ -15906,7 +15906,7 @@ U+759B zhou3
 U+759C xia4
 U+759D shan4
 U+759E xu1
-U+759F nüe4
+U+759F nve4
 U+75A0 li4
 U+75A1 yang2
 U+75A2 chen4
@@ -16042,7 +16042,7 @@ U+7623 hui4
 U+7624 liu2
 U+7625 chai4
 U+7626 shou4
-U+7627 nüe4
+U+7627 nve4
 U+7628 dian1
 U+7629 
 U+762A bie3
@@ -16635,7 +16635,7 @@ U+7874 hua1
 U+7875 lu3
 U+7876 chen3
 U+7877 jian3
-U+7878 nüe4
+U+7878 nve4
 U+7879 song1
 U+787A zhuo2
 U+787B keng1
@@ -17063,7 +17063,7 @@ U+7A20 chou2
 U+7A21 zui4
 U+7A22 yu4
 U+7A23 su1
-U+7A24 lüe4
+U+7A24 lve4
 U+7A25 xiang1
 U+7A26 yi1
 U+7A27 xi4
@@ -20179,7 +20179,7 @@ U+864C bie1
 U+864D hu1
 U+864E hu3
 U+864F lu3
-U+8650 nüe4
+U+8650 nve4
 U+8651 lv4
 U+8652 si1
 U+8653 xiao1
@@ -23392,12 +23392,12 @@ U+92D9 yu3
 U+92DA tiao2
 U+92DB kuang4
 U+92DC zhuo2
-U+92DD lüe4
+U+92DD lve4
 U+92DE xing2
 U+92DF qin3
 U+92E0 shen4
 U+92E1 han2
-U+92E2 lüe4
+U+92E2 lve4
 U+92E3 ye2
 U+92E4 chu2
 U+92E5 zeng4
@@ -23949,7 +23949,7 @@ U+9506 gao4
 U+9507 e2
 U+9508 xiu4
 U+9509 cuo4
-U+950A lüe4
+U+950A lve4
 U+950B feng1
 U+950C xin1
 U+950D liu3
@@ -27246,7 +27246,7 @@ U+2087B zong4
 U+20883 tang2
 U+20886 xia2
 U+20887 han4
-U+2088C lüe4
+U+2088C lue4
 U+2088D qian2
 U+20893 mo4
 U+20894 ou1
@@ -27761,7 +27761,7 @@ U+20F17 zan4
 U+20F18 wu4
 U+20F1D li2
 U+20F1E a1
-U+20F1F lüe4
+U+20F1F lve4
 U+20F20 zhi3
 U+20F21 chou2
 U+20F22 jiang4
@@ -34323,7 +34323,7 @@ U+262AA e4
 U+262AB gong1
 U+262AC gu1
 U+262B1 gua4
-U+262B9 lüe4
+U+262B9 lve4
 U+262BB fan2
 U+262BC lv4
 U+262BD meng2
@@ -35889,7 +35889,7 @@ U+273B8 jiao3
 U+273B9 zui4
 U+273BA ge1
 U+273BB wu4
-U+273BE lüe4
+U+273BE lve4
 U+273BF ji2
 U+273C2 xie2
 U+273C3 xie2
@@ -35914,7 +35914,7 @@ U+27405 qu1
 U+27408 zu2
 U+27409 zhi1
 U+2740A zhang1
-U+2740B lüe4
+U+2740B lve4
 U+2740C wei3
 U+2740D chong1
 U+2740E mi4
@@ -35928,13 +35928,13 @@ U+27417 xuan2
 U+27419 wu4
 U+2741F mao2
 U+2742C hong2
-U+2742F lüe4
+U+2742F lve4
 U+27430 du2
 U+27431 cong2
 U+27432 chan2
 U+27433 lu4
 U+27434 su4
-U+27440 lüe4
+U+27440 lve4
 U+27446 zhong1
 U+27447 li2
 U+27448 fei4
@@ -36035,7 +36035,7 @@ U+27545 ling2
 U+27547 xian3
 U+27549 qi1
 U+2754B yue4
-U+2754C lüe4
+U+2754C lve4
 U+2754D ying2
 U+2754E qu2
 U+27552 fei3
@@ -38310,7 +38310,7 @@ U+28D66 yu2
 U+28D67 kua1
 U+28D69 pi4
 U+28D6A xie2
-U+28D6B nüe4
+U+28D6B nve4
 U+28D6C xian4
 U+28D6D jian4
 U+28D6E xu4
@@ -40561,7 +40561,7 @@ U+2A13B chong1
 U+2A142 zhang1
 U+2A143 piao3
 U+2A144 su4
-U+2A145 lüe4
+U+2A145 lve4
 U+2A146 li2
 U+2A147 meng4
 U+2A148 chong1
